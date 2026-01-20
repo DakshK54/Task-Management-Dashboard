@@ -2,6 +2,11 @@
 node_modules/
 */node_modules/
 
+# Root-level ignores for monorepo
+dist/
+.env
+.env.*
+
 # Environment variables
 .env
 .env.local
